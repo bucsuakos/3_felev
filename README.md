@@ -1,10 +1,11 @@
 # 3_felev
 
-[Valószínégszámítás 1.](https://math.bme.hu/~pet/valszam/Vsz2025.html)
+[Valószíűségszámítás 1.](https://math.bme.hu/~pet/valszam/Vsz2025.html)
 
 * [Gyakorlat feladatai és házi feladatok](https://math.bme.hu/~pet/valszam/utemVsz1_2025f3.pdf)
+* [Gyakorlat honlapja](https://math.bme.hu/~rathb/oktatas/valszam1gyak/vsz1gyak.html)
 
-[Analízis 1](https://math.bme.hu/~pataki/crs/an1/)
+[Analízis 1.](https://math.bme.hu/~pataki/crs/an1/)
 
 [Algebra 1.](https://math.bme.hu/~nagyat/alg1ea.html)
 
