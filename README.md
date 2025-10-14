@@ -1,6 +1,6 @@
 # 3_felev
 
-[Valószíűségszámítás 1.](https://math.bme.hu/~pet/valszam/Vsz2025.html)
+[Valószínűségszámítás 1.](https://math.bme.hu/~pet/valszam/Vsz2025.html)
 
 * [Gyakorlat feladatai és házi feladatok](https://math.bme.hu/~pet/valszam/utemVsz1_2025f3.pdf)
 * [Gyakorlat honlapja](https://math.bme.hu/~rathb/oktatas/valszam1gyak/vsz1gyak.html)
@@ -14,6 +14,8 @@
 [Differenciálegyenletek 1.](https://math.bme.hu/~mkiss/)
 
 * [Feladatgyűjtemény megoldásokkal](http://tankonyvtar.ttk.bme.hu/pdf/166.pdf)
+
+[Valószínűségszámítási programozás 1.](https://adamgyenge.gitlab.io/teaching/progval/2025hu/)
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
